@@ -42,7 +42,4 @@ networking, and any required cloud services.
 ### 9. **Network Configuration (Optional)** - 
 Configure network settings, firewall rules, and secure access protocols 
 (SSH, VPN) if the application involves client-server or distributed architectures. 
-### 10. **Environment Documentation** - 
-Keep a well-documented guide or script (like a `README.md` or a shell 
-script) that details the exact steps required to set up the environment, ensuring 
-that other team members or future developers can easily replicate the setup.
+
