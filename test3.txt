@@ -1,0 +1,5 @@
+for i 5 7
+print i
+end
+A
+10

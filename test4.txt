@@ -1,0 +1,6 @@
+if A>B
+Yes
+print A
+end
+A B
+10 5

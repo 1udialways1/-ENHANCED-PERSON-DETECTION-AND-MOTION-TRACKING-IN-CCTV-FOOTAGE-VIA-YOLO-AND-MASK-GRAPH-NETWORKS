@@ -1,0 +1,13 @@
+if A==1
+Yes
+print A
+No
+if A==2
+Yes
+print B
+No
+print 0
+end
+end
+A B
+2 5
