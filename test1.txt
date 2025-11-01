@@ -1,0 +1,12 @@
+for i 1 2
+for j 1 3
+if i<j
+Yes
+print i
+No
+print j
+end
+end
+end
+A B
+1 2
